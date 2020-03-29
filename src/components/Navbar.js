@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import instagram from '../img/social/instagram.svg'
+import instagram from '../img/social/instagram.png'
 import facebook from '../img/social/facebook.svg'
 import youtube from '../img/social/youtube.svg'
 import logo from '../img/sophie-and-ryan-logo-02.png'
@@ -73,19 +73,16 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <div
-                className="navbar-item"
-              >
-                <a href="https://www.youtube.com/channel/UCsUwAnF0RDWSHhHnmkcAuyw?view_as=subscriber" rel="noopener noreferrer" target="_blank">
-                  <img src={youtube} alt="youtube"/>
+              <span className="icon">
+                <a className="navbar-item" href="https://www.youtube.com/channel/UCsUwAnF0RDWSHhHnmkcAuyw?view_as=subscriber" rel="noopener noreferrer" target="_blank">
+                    <img src={youtube} alt="youtube"/>
                 </a>
-                <a href="https://www.instagram.com/itssophieandryan/" rel="noopener noreferrer" target="_blank">
+              </span>
+              <span className="icon">
+                <a className="navbar-item" href="https://www.instagram.com/itssophieandryan/" rel="noopener noreferrer" target="_blank">
                   <img src={instagram} alt="Instagram"/>
                 </a>
-                <a href="https://www.facebook.com/itssophieandryan/" rel="noopener noreferrer" target="_blank">
-                  <img src={facebook} alt="Facebook"/>
-                </a>
-              </div>
+              </span>
             </div>
           </div>
         </div>

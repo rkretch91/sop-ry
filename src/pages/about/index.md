@@ -1,19 +1,15 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### First Encounters in Shanghai
+Back on a sweltering June morning in 2017, Sophie and Ryan first met at a 6 am fitness group in Shanghai, China. After losing touch for another two months, they stumbled upon one another at a falafel shop. From that moment forward, they became friends.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Similar Ideals
+While hanging out for a while, they realized they shared similar values and interests in everything; from yoga to environmental protection to having a crazy night out and more.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Move to Berlin and the birth of Sophie and Ryan
+Strangely enough, they both ended up in Berlin, Germany for different reasons in 2019. After being fed up with the world and how we treat it as humans, Sophie and Ryan created...well [Sophie and Ryan](https://www.youtube.com/channel/UCsUwAnF0RDWSHhHnmkcAuyw?view_as=subscriber) as a means to becoming better people.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Enjoy, you gorgeously sexy beast, you!
