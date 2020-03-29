@@ -1,17 +1,28 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import url("https://use.typekit.net/kjn3eiy.css");
 
 // Config vars
 // Kaldi logo brand color: #FD461E
 $kaldi-red: #D64000
 $kaldi-red-invert: #fff
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+$primary: #333
+$primary-invert: #333
 $body-color: #333
 $black: #2b2523
 
+body
+  font-family: poynter-oldstyle-display, serif !important
+  font-weight: 400
+  font-style: normal
+
+.navbar
+  background-color: transparent !important
+  width: 100% !important
+
 .navbar .navbar-menu
   box-shadow:none !important
+  height: auto !important
 
 .content .taglist
   list-style: none
@@ -44,9 +55,9 @@ $black: #2b2523
 
 .full-width-image
     width: 100vw
-    height: 400px
+    height: 100vh
     background-size: cover
-    background-position: bottom
+    background-position: center top
     display: flex
     justify-content: center
     align-items: center
@@ -58,15 +69,17 @@ $black: #2b2523
     font-size: 1rem
     line-height: 1.25
     background-color: #fff
-    border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: #62BEC1
     text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
+    -webkit-box-shadow: inset 0 0 0 2px #62BEC1
+    box-shadow: inset 0 0 0 2px #62BEC1
     -webkit-transition: all .15s ease
     transition: all .15s ease
+
+.button
+ border-radius: 0px !important
 
 .margin-top-0
   margin-top: 0 !important
@@ -74,12 +87,20 @@ $black: #2b2523
 .navbar-item .icon
   color: $primary
 // Override for use of svg's from https://simpleicons.org/
+.icon
+  margin: 5px
+  opacity: .5
 .icon svg
   width: 1.5rem
   height: 1.5rem
   fill: currentColor
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
+.navbar-brand
+  display: flex
+  align-items: center
+.navbar-brand img
+  max-height: none !important
 footer.footer
   padding: 3rem 0rem 0rem
   background-color: transparent
@@ -114,13 +135,21 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: rgba(98,190,193,0.1) !important;
 .blog-list-item header
-  display: flex;
   margin-bottom: 1em;
 .blog-list-item .featured-thumbnail
   flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  margin: 0 0 1em;
+  border-radius: 0px !important
+  img
+    width: 100% !important
+.box
+  box-shadow: none !important
+  border-radius: 0px !important
+  background-color: white !important
+.gatsby-image-wrapper
+  border-radius: 0px !important
 
 
 @import "~bulma"
