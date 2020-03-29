@@ -1,13 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Sophie and Ryan
 image: /img/sophie-and-ryan-2.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Hi, sexy humans.
+  title: 'Hi, sexy humans.'
   description: >
-    We are two Berlin-based best friends who are aiming to be less shitty, greener and to inspire others to make themselves and the world a better place.
+    We are two Berlin-based best friends who are aiming to be less shitty,
+    greener and to inspire others to make themselves and the world a better
+    place.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
