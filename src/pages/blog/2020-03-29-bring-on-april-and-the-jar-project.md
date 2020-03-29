@@ -21,6 +21,6 @@ Social isolation and distancing during the Covid-19 time appears to separate us;
 
 ![](/img/download.png)
 
-##### Every day starting April 1st, head over to [The Jar Project](thejarproject.com) and pick a task out of the jar. Each task is an act of kindness that can be done over the phone or online. Feel free to add your own tasks to the jar too.
+##### Every day starting April 1st, head over to [The Jar Project](https://www.thejarproject.com) and pick a task out of the jar. Each task is an act of kindness that can be done over the phone or online. Feel free to add your own tasks to the jar too.
 
 #### Share it, post it, and infect others with generosity (not Corona) #thejarproject
