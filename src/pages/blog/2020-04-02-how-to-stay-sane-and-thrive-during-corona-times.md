@@ -20,6 +20,8 @@ tags:
   - thrive
   - physical health
 ---
+### [Check out our Youtube Video on the topic](https://www.youtube.com/watch?v=49Ena-12SZo&t=104s)
+
 ### Meditation
 
 Research shows that meditation reduces stress, controls anxiety, increases self awareness, and promotes emotional health to name a few. There are so many ways to meditate for instance silent meditation where you focus on the breath, guided meditations with apps like headspace, or you can just search for specific meditations that resonate with you on YouTube. [Here’s an absolute gem of a meditation](https://www.youtube.com/watch?v=lssNBHXz4Vw).
