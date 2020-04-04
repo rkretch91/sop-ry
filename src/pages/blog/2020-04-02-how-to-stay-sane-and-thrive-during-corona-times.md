@@ -20,6 +20,8 @@ tags:
   - thrive
   - physical health
 ---
+![](/img/mvi_9945.00_00_06_07.still002.jpg)
+
 ### [Check out our Youtube Video on the topic](https://www.youtube.com/watch?v=49Ena-12SZo&t=104s)
 
 ### Meditation
